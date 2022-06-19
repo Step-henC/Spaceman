@@ -1,0 +1,16 @@
+C:\Users\steve\repos\SpacedMan\bin\Debug\net5.0\SpacedMan.exe
+C:\Users\steve\repos\SpacedMan\bin\Debug\net5.0\SpacedMan.deps.json
+C:\Users\steve\repos\SpacedMan\bin\Debug\net5.0\SpacedMan.runtimeconfig.json
+C:\Users\steve\repos\SpacedMan\bin\Debug\net5.0\SpacedMan.runtimeconfig.dev.json
+C:\Users\steve\repos\SpacedMan\bin\Debug\net5.0\SpacedMan.dll
+C:\Users\steve\repos\SpacedMan\bin\Debug\net5.0\SpacedMan.pdb
+C:\Users\steve\repos\SpacedMan\obj\Debug\net5.0\SpacedMan.csproj.AssemblyReference.cache
+C:\Users\steve\repos\SpacedMan\obj\Debug\net5.0\SpacedMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\repos\SpacedMan\obj\Debug\net5.0\SpacedMan.AssemblyInfoInputs.cache
+C:\Users\steve\repos\SpacedMan\obj\Debug\net5.0\SpacedMan.AssemblyInfo.cs
+C:\Users\steve\repos\SpacedMan\obj\Debug\net5.0\SpacedMan.csproj.CoreCompileInputs.cache
+C:\Users\steve\repos\SpacedMan\obj\Debug\net5.0\SpacedMan.dll
+C:\Users\steve\repos\SpacedMan\obj\Debug\net5.0\refint\SpacedMan.dll
+C:\Users\steve\repos\SpacedMan\obj\Debug\net5.0\SpacedMan.pdb
+C:\Users\steve\repos\SpacedMan\obj\Debug\net5.0\SpacedMan.genruntimeconfig.cache
+C:\Users\steve\repos\SpacedMan\obj\Debug\net5.0\ref\SpacedMan.dll
